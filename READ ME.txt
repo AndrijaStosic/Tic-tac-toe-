@@ -1,6 +1,7 @@
 A simple tic tac toe game made in python using tkinter's graphical user interface(GUI)
-It have one bug, when it is draw the game does not reset.
-I am going to fix this bux soon.
+It have a bug when it is draw the game does not reset.
+I am going to fix this bug soon.
+And a tkinter's messagebox bugs when you finish the game.
 
 
 
